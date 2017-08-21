@@ -32,7 +32,7 @@ echo '<div class=\"name\">'."NUME:".$data ['name'].'</div>';
 echo '<div class=\"id\">'."ID:".$data ['id'].'</div>';
 echo '<div class=\"email\">'."E-MAIL:".$data ['email'].'</div>';
 echo '<div class=\"gender\">'."GEN:".$data ['gender'].'</div>';
-//echo '<div class=\"location\">'."LOCATIA::".$data ['location']=>['name'].'</div>';
+
 
 
 
